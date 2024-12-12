@@ -17,4 +17,7 @@ CSCI4343 Data Mining @ UTRGV w/ Dr. Yifeng Gao
 ## Option 2 (cloud):
 
 1) Go to [this](https://colab.research.google.com/drive/1cI2z6xKWdzYAwpn7VSZZJ-b29P2WI23w) Google Colab
-2) Click `Run all` under the Runtime tab on the top left of the window.
+2) Click `Copy to Drive`.
+    - You may have to login to your own google account
+    - If you do not desire to login, the outputs of each code block should already be displayed!
+3) Click `Run all` under the Runtime tab on the top left of the window.
